@@ -23,6 +23,8 @@ namespace comp1
         public MainWindow()
         {
             InitializeComponent();
+            int a = 1;
+            a++;
         }
     }
 }

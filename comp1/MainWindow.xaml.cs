@@ -26,7 +26,6 @@ namespace comp1
             InitializeComponent();
             int a = 1;
             a++;
-
         }
     }
 }
